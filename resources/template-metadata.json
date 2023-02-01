@@ -1159,6 +1159,15 @@
    "targetApps": ["jenkins", "slack"],
    "tags": ["github", "jenkins", "slack"],
    "offerings": ["app connect professional"]
+  },
+  {
+   "name": "Synchronize data between Quickbooks and Shopify",
+   "description": "Use this template to synchronize data between Quickbooks and Shopify.",
+   "summary": "Create customer in shopify with same request to create customer in quickbooks",
+   "sourceApp": "quickbooks",
+   "targetApps": ["shopify"],
+   "tags": ["quickbooks", "shopify"],
+   "offerings": ["app connect professional"]
   }
   ]
 }
